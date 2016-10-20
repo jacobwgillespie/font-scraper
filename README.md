@@ -88,3 +88,12 @@ Fetch the fonts and font stacks in use in the [top 100 Webflow websites](https:/
   ]
 }
 ```
+
+## Future Enhancements
+
+* Ability to crawl sub-links from the root page
+* Ability to control when the font detection takes place (to wait for JavaScript elements to appear on the page)
+
+## License
+
+MIT license, see `LICENSE`.
